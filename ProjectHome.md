@@ -1,0 +1,2 @@
+-Upgrade Kernel(Support Wood)
+-Backup Game and Save File
